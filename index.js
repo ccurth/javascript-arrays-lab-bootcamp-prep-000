@@ -35,3 +35,7 @@ function removeLastKitten() {
   return newArray
   
 }
+
+function removeFirstKitten() {
+  var newArray = kittens.
+}
